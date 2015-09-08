@@ -1,0 +1,27 @@
+{
+  "name": "gcc-bootstrap",
+  "version": "0.1.0",
+  "description": "Google closure compiler bootstrap module.",
+  "license": "MIT",
+  "author": {
+    "name": "Boris Kaul",
+    "email": "localvoid@gmail.com",
+    "url": "https://github.com/localvoid"
+  },
+  "keywords": [
+    "closurecompiler",
+    "closure",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/localvoid/gcc-bootstrap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/localvoid/gcc-bootstrap"
+  },
+  "bugs": {
+    "url": "https://github.com/localvoid/gcc-bootstrap/issues"
+  },
+  "github": "https://github.com/localvoid/gcc-bootstrap",
+  "dependencies": {},
+  "devDependencies": {}
+}
